@@ -1,0 +1,99 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3177,         91]
+NotebookOptionsPosition[      2332,         66]
+NotebookOutlinePosition[      2758,         83]
+CellTagsIndexPosition[      2715,         80]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Eurofighter", "Title",
+ CellChangeTimes->{{3.950969204874477*^9, 
+  3.9509692096899652`*^9}},ExpressionUUID->"4bf91cc8-2cfb-412f-968a-\
+02838f82a84f"],
+
+Cell[CellGroupData[{
+
+Cell["Initialization", "Chapter",
+ CellChangeTimes->{{3.7589773353273573`*^9, 
+  3.758977337671272*^9}},ExpressionUUID->"e98f7ee7-5b2a-4968-a019-\
+8652f0fae131"],
+
+Cell[BoxData[
+ RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}]], "Input",
+ CellLabel->"In[1]:=",ExpressionUUID->"d203d42c-6b48-413a-85c3-6bd48d9b662e"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"SetDirectory", "[", 
+   RowBox[{"NotebookDirectory", "[", "]"}], "]"}], " ", 
+  RowBox[{"(*", 
+   RowBox[{
+   "setta", " ", "il", " ", "percorso", " ", "della", " ", "directory", " ", 
+    "e", " ", "le", " ", "librerie"}], "*)"}]}]], "Input",
+ CellChangeTimes->{{3.592832764161922*^9, 3.592832787718707*^9}, {
+   3.592832954876391*^9, 3.59283295585962*^9}, {3.5936690314366903`*^9, 
+   3.5936690325503078`*^9}, {3.5946232001502867`*^9, 3.594623255770267*^9}, {
+   3.641623156199737*^9, 3.641623156652673*^9}, {3.672484540833352*^9, 
+   3.672484543791885*^9}, 3.6729823983176126`*^9, {3.758976491370364*^9, 
+   3.758976493806855*^9}, {3.950969131858535*^9, 3.95096913846179*^9}, {
+   3.950969414758256*^9, 3.950969484967792*^9}, {3.950969793653101*^9, 
+   3.950969794324357*^9}, {3.950969863857544*^9, 3.9509699031512423`*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"242ec1c7-50b8-42ec-b016-17a93c681c3d"],
+
+Cell[BoxData["\<\"/Users/Francesco Daniele/Desktop/Wolfram \
+Mathematica/4_Motori aeronautici/1_Script progetto\"\>"], "Output",
+ CellChangeTimes->{3.950969990287951*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"63bb401c-df55-4aa9-b7fc-3fa1335063a5"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 726},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+Magnification:>0.75 Inherited,
+FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 12, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"5f647a0a-bab3-44d2-a12d-0341519f91a1"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 156, 3, 75, "Title",ExpressionUUID->"4bf91cc8-2cfb-412f-968a-02838f82a84f"],
+Cell[CellGroupData[{
+Cell[761, 29, 161, 3, 52, "Chapter",ExpressionUUID->"e98f7ee7-5b2a-4968-a019-8652f0fae131"],
+Cell[925, 34, 151, 2, 24, "Input",ExpressionUUID->"d203d42c-6b48-413a-85c3-6bd48d9b662e"],
+Cell[CellGroupData[{
+Cell[1101, 40, 940, 16, 24, "Input",ExpressionUUID->"242ec1c7-50b8-42ec-b016-17a93c681c3d"],
+Cell[2044, 58, 248, 3, 27, "Output",ExpressionUUID->"63bb401c-df55-4aa9-b7fc-3fa1335063a5"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
