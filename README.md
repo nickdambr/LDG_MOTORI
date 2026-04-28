@@ -159,7 +159,7 @@ Open [report/PROGETTO MOTORI AERONAUTICI_D'AMBROSIO_DANIELE_GRIPPO_JACOPUCCI.pdf
 | # | Section | Lead | Contributors |
 |---|---------|------|--------------|
 | 1 | Mission Analysis | **Niccolò D'Ambrosio** | all members |
-| 2 | Constraint Analysis + design iterations | **Niccolò D'Ambrosio** | Matteo Grippo |
+| 2 | Constraint Analysis + design iterations | **Niccolò D'Ambrosio** | all members |
 | 3 | Engine Cycle Analysis (turbofan + afterburner) | Francesco Daniele | **Niccolò D'Ambrosio** |
 | 4 | Cantera combustion tables | Matteo Grippo | — |
 | 5 | Multi-objective optimization (pymoo / NSGA-II) | Elisa Jacopucci | **Niccolò D'Ambrosio** |
